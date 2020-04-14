@@ -1,6 +1,7 @@
 package models;
 import java.util.*;
 import play.data.validation.Constraints.*;
+import javax.persistence.*;
 
 public class Task {
     
