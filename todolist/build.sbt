@@ -1,5 +1,5 @@
-name := """ToDoList"""
-organization := "com.nichetutorial"
+name := """play-java-hello-world-tutorial"""
+organization := "com.example"
 
 version := "1.0-SNAPSHOT"
 
